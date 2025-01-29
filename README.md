@@ -137,5 +137,5 @@ POST /expense/budget
 ```
 
 ## 👤 Author
-Your Name - [GitHub Profile](https://github.com/ganthantm65/)
+Ganthan T.M - [GitHub Profile](https://github.com/ganthantm65/)
 
